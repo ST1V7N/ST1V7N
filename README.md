@@ -46,29 +46,53 @@ My experience includes application support, databases, backend development and p
 ![Next.js](https://img.shields.io/badge/Next.js-101418?style=flat-square&logo=nextdotjs&logoColor=10B981)
 ![Node.js](https://img.shields.io/badge/Node.js-101418?style=flat-square&logo=nodedotjs&logoColor=10B981)
 
-## Featured projects
 
-### EduConect
-Educational technology project focused on connecting educational needs with digital solutions.
+## Proyectos destacados
 
-### AgentFor
-Personal AI agent concept focused on productivity, integrations and automation.
+### [AgentFor — Agente personal de IA](https://github.com/ST1V7N)
 
-### LenguaLift
-Web project for language learning.
+Agente personal de inteligencia artificial enfocado en productividad,
+integraciones y automatización de tareas. Un proyecto orientado
+a explorar herramientas inteligentes y soluciones que simplifiquen
+el trabajo diario.
 
-> Add the repository links, current status and technologies used in each project before publishing this section.
+**Enfoque:** IA · Automatización · Integraciones
 
-## Current interests
+### [Portafolio personal](https://stivcrea.vercel.app/)
 
-Backend architecture · API integrations · Database optimization · AI agents · Process automation
+Sitio web personal para presentar mi perfil profesional,
+experiencia, habilidades y proyectos de desarrollo.
+
+**Demo:** [stivcrea.vercel.app](https://stivcrea.vercel.app/)
+
+### [Vínculo Real](https://www.vinculorealcolombia.com/)
+
+Plataforma digital de conexiones serias que utiliza un cuestionario
+de compatibilidad y orientación profesional para acompañar a las
+personas durante el proceso de conocer posibles parejas.
+
+**Enfoque:** Plataforma web · Experiencia de usuario · Lógica de negocio
+
+### [iLoveFormato — Convertidor de archivos](https://iloveformato.onrender.com/)
+
+Aplicación web orientada a facilitar la conversión de archivos
+mediante una herramienta accesible desde el navegador.
+
+**Demo:** [iloveformato.onrender.com](https://iloveformato.onrender.com)
+
+---
+
+## Áreas de interés
+
+Backend · Bases de datos · Integraciones de API ·
+Automatización de procesos · Agentes de IA · Desarrollo web
 
 ---
 
 <div align="center">
 
-**Ideas → Code → Solutions**
+**Ideas → Código → Soluciones**
 
-*Always learning. Always building.*
+*Siempre aprendiendo. Siempre construyendo.*
 
 </div>
