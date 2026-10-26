@@ -1,91 +1,96 @@
-
 <div align="center">
 
 # STIVEN CUESTA
 
-### Software Engineering Student · Backend Developer
+### Estudiante de Ingeniería de Sistemas · Desarrollador Backend
 
-Building practical solutions with code, data and automation.
+Desarrollo soluciones prácticas mediante código, datos y automatización.
 
-[![Location](https://img.shields.io/badge/Bogot%C3%A1-Colombia-10B981?style=flat-square)](https://github.com/ST1V7N)
-[![Focus](https://img.shields.io/badge/Focus-Backend-101418?style=flat-square&labelColor=10B981)](https://github.com/ST1V7N)
+![Enfoque](https://img.shields.io/badge/ENFOQUE-BACKEND-10B981?style=flat-square&labelColor=101418)
+![Ubicación](https://img.shields.io/badge/BOGOT%C3%81-COLOMBIA-10B981?style=flat-square&labelColor=101418)
 
 </div>
 
 ---
 
-## About me
+## Sobre mí
 
-I'm a Systems Engineering student and software developer interested in building useful, maintainable and efficient solutions.
+Soy estudiante de Ingeniería de Sistemas y desarrollador de software, interesado en construir soluciones útiles, mantenibles y eficientes.
 
-My experience includes application support, databases, backend development and process automation. I enjoy understanding problems, improving workflows and turning ideas into working software.
+Mi experiencia profesional abarca el análisis y soporte de aplicaciones, bases de datos, automatización de procesos y desarrollo de soluciones tecnológicas. Disfruto comprender problemas, optimizar flujos de trabajo y convertir ideas en herramientas funcionales.
 
-- Backend development and API integrations
-- Database design, SQL and query optimization
-- Automation and data processing with Python
-- Web application development
-- Exploring AI-powered tools and solutions
+**En qué trabajo:**
 
-## Tech stack
+- Desarrollo backend e integraciones de API.
+- Diseño y gestión de bases de datos SQL.
+- Automatización y procesamiento de datos con Python.
+- Desarrollo y mantenimiento de aplicaciones web.
 
-**Languages**
+## Pila tecnológica
+
+**Lenguajes**
 
 ![Python](https://img.shields.io/badge/Python-101418?style=flat-square&logo=python&logoColor=10B981)
 ![JavaScript](https://img.shields.io/badge/JavaScript-101418?style=flat-square&logo=javascript&logoColor=10B981)
-![SQL](https://img.shields.io/badge/SQL-101418?style=flat-square&logo=databricks&logoColor=10B981)
+![SQL](https://img.shields.io/badge/SQL-101418?style=flat-square)
 
-**Databases**
+<!-- Si usas un framework backend, agrégalo aquí. Ejemplos:
+![FastAPI](https://img.shields.io/badge/FastAPI-101418?style=flat-square&logo=fastapi&logoColor=10B981)
+![Express](https://img.shields.io/badge/Express-101418?style=flat-square&logo=express&logoColor=10B981)
+![Django](https://img.shields.io/badge/Django-101418?style=flat-square&logo=django&logoColor=10B981)
+-->
+
+**Bases de datos**
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-101418?style=flat-square&logo=microsoftsqlserver&logoColor=10B981)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101418?style=flat-square&logo=postgresql&logoColor=10B981)
 ![MySQL](https://img.shields.io/badge/MySQL-101418?style=flat-square&logo=mysql&logoColor=10B981)
 
-**Tools and technologies**
+**Herramientas y tecnologías web**
 
 ![Git](https://img.shields.io/badge/Git-101418?style=flat-square&logo=git&logoColor=10B981)
 ![Next.js](https://img.shields.io/badge/Next.js-101418?style=flat-square&logo=nextdotjs&logoColor=10B981)
 ![Node.js](https://img.shields.io/badge/Node.js-101418?style=flat-square&logo=nodedotjs&logoColor=10B981)
 
-
 ## Proyectos destacados
 
-### [AgentFor — Agente personal de IA](https://github.com/ST1V7N)
+### AgentFor — Agente personal de IA
 
-Agente personal de inteligencia artificial enfocado en productividad,
-integraciones y automatización de tareas. Un proyecto orientado
-a explorar herramientas inteligentes y soluciones que simplifiquen
-el trabajo diario.
+Proyecto personal enfocado en agentes de inteligencia artificial, productividad, integraciones y automatización de tareas.
 
-**Enfoque:** IA · Automatización · Integraciones
+**Enfoque:** Inteligencia artificial · Automatización · Integraciones
+
+**Estado:** En desarrollo.
 
 ### [Portafolio personal](https://stivcrea.vercel.app/)
 
-Sitio web personal para presentar mi perfil profesional,
-experiencia, habilidades y proyectos de desarrollo.
+Mi espacio profesional para presentar mi perfil, experiencia, habilidades y proyectos de desarrollo.
 
 **Demo:** [stivcrea.vercel.app](https://stivcrea.vercel.app/)
 
 ### [Vínculo Real](https://www.vinculorealcolombia.com/)
 
-Plataforma digital de conexiones serias que utiliza un cuestionario
-de compatibilidad y orientación profesional para acompañar a las
-personas durante el proceso de conocer posibles parejas.
+Plataforma web orientada a conectar personas y facilitar conexiones significativas mediante una experiencia digital enfocada en la compatibilidad.
 
-**Enfoque:** Plataforma web · Experiencia de usuario · Lógica de negocio
+**Demo:** [vinculorealcolombia.com](https://www.vinculorealcolombia.com/)
 
 ### [iLoveFormato — Convertidor de archivos](https://iloveformato.onrender.com/)
 
-Aplicación web orientada a facilitar la conversión de archivos
-mediante una herramienta accesible desde el navegador.
+Aplicación web orientada a facilitar la conversión de archivos desde el navegador.
 
-**Demo:** [iloveformato.onrender.com](https://iloveformato.onrender.com)
+**Demo:** [iloveformato.onrender.com](https://iloveformato.onrender.com/)
 
----
+## Explorando actualmente
 
-## Áreas de interés
+- Arquitectura backend y diseño de API.
+- Agentes de IA e integración de herramientas.
+- Optimización de consultas SQL.
 
-Backend · Bases de datos · Integraciones de API ·
-Automatización de procesos · Agentes de IA · Desarrollo web
+## Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-101418?style=flat-square&logo=linkedin&logoColor=10B981)](https://www.linkedin.com/in/TU-USUARIO/)
+[![Email](https://img.shields.io/badge/Email-101418?style=flat-square&logo=gmail&logoColor=10B981)](mailto:TU-CORREO)
+[![Portafolio](https://img.shields.io/badge/Portafolio-101418?style=flat-square&logo=vercel&logoColor=10B981)](https://stivcrea.vercel.app/)
 
 ---
 
