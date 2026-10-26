@@ -2,7 +2,7 @@
 
 # STIVEN CUESTA
 
-### Estudiante de Ingeniería de Sistemas · Desarrollador Backend
+### Estudiante de Ingeniería de Sistemas · Desarrollador
 
 Desarrollo soluciones prácticas mediante código, datos y automatización.
 
